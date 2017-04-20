@@ -1,0 +1,29 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Shubham Yadav <Shubham Yadav>
+#
+# On branch abcd
+# Changes to be committed:
+#	new file:   images/car1.jpg
+#	new file:   images/car2.jpg
+#	new file:   images/car3.jpg
+#	new file:   images/car4.jpg
+#	new file:   images/car5.jpg
+#	new file:   images/left.gif
+#	new file:   images/logo.jpg
+#	new file:   images/pic1.jpg
+#	new file:   images/pic2.jpg
+#	new file:   images/pic3.jpg
+#	new file:   images/pic4.jpg
+#	new file:   images/pic5.jpg
+#	new file:   images/pic6.jpg
+#	new file:   images/pic7.jpg
+#	new file:   images/pic8.jpg
+#	new file:   images/right.gif
+#
+# Untracked files:
+#	debug.log
+#	js.html
+#

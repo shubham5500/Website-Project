@@ -1,0 +1,20 @@
+.wrap{
+	margin:auto;
+	
+}
+.menuli{
+	border:none;	
+	color:black;
+}
+.searchbox{
+	float:right;
+position:absolute;
+right:20px;
+top:20px;	
+}
+.fa-search{
+	 position: absolute;
+    color: black;
+    right: 25px;
+    top: 25px;
+}
